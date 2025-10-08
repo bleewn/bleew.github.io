@@ -263,6 +263,10 @@ body {
     object-fit: cover;
 }
 
+.server-icon.dolphin {
+    background: linear-gradient(135deg, #00b4d8, #0077b6);
+}
+
 .server-icon.insidious {
     background: linear-gradient(135deg, #667eea, #764ba2);
 }
